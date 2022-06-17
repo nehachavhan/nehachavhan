@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @nehachavhan
 - 👀 I’m interested in statistics and playing with data
-- 🌱 Have done MSc Statistics 
+- 🌱 Have done MSc Statistics and Interested in playing with data and applying ML algorithms .
+- Improving each day.
 - 📫 How to reach me 18chavhanmeha@gmail.com
 
 <!---
